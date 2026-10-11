@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://slb-md.github.io/hmu/sitemap.xml
